@@ -1,4 +1,7 @@
-Slide 1
+Hi, I'm David
+Microsoft MVP  |  Technical Evangelist
+http://davidpine.net
+@davidpine7
 ---
 Slide 2
 ---
